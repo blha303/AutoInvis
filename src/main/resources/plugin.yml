@@ -2,3 +2,7 @@ name: AutoInvis
 main: me.blha303.autoinvis.AutoInvis
 version: ${project.version}
 author: blha303
+permissions:
+  autoinvis.bypass:
+    description: Bypass AutoInvis's effects
+    default: false

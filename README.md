@@ -1,7 +1,11 @@
 AutoInvis
 =========
 
-This plugin automatically applies an invisibility effect to players on login. Useful for BungeeCord hub servers. No commands or permissions.
+This plugin automatically applies an invisibility effect to players on login. Useful for BungeeCord hub servers. No commands.
+
+Permissions
+-----------
+* **autoinvis.bypass** - Bypass AutoInvis. Stops automatic invisibility setting on the player.
 
 Links
 -----
