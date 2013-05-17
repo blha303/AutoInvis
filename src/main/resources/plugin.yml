@@ -1,0 +1,4 @@
+name: AutoInvis
+main: me.blha303.autoinvis.AutoInvis
+version: ${project.version}
+author: blha303
